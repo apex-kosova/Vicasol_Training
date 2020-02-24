@@ -5,8 +5,7 @@ This repository includes the all the training material needed for the training f
 
 ## Resources
 This repository contains:
-* Apps: this folder includes the applications created during the Workshop
+* Apps: this folder includes the applications created during the Workshop, and some other resources.
 * Main presentation and Guides: .pptx presentation used during the Workshop, and documents used for it.
-* Oracle's Hands On Labs: some other recurses, provided by Oracle, used during the Workshop
 * Resources: .csv files and scripts used during the Workshop.
 * Readme.md file: index of the resources provided.
