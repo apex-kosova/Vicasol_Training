@@ -1,6 +1,6 @@
 ## Some useful links
-### Improving some components
-- John Snyders: Learn all you can do using the Interactive Grid [Cookbook](https://hardlikesoftware.com/weblog/2019/11/04/apex-ig-cookbook-update-for-19-2/)
+### Improving some APEX components
+- John Snyders: Learn all you can do using the Interactive Grid [Cookbook](https://hardlikesoftware.com/weblog/2019/11/04/apex-ig-cookbook-update-for-19-2/), and [All the things that Pop Up](https://hardlikesoftware.com/weblog/2019/12/23/all-the-things-that-pop-up/)
 
 ### Articles about TeamWork organization and deployments
 - Explorer UK: [Version control for team work](https://explorer.co.uk/apex-version-control-team-working/) This article also includes a [YouTube video](https://youtu.be/vVLi1HFzuiI) 
@@ -28,3 +28,4 @@
 
 ### Some more usefull links:
 - PinkDB Architecture and APEX, by Insum: [YouTube video](https://youtu.be/v2keRdIODnk)
+- APEX Theme Styles: [Theme examples](https://apex-theme-styles.com/ords/f?p=800:1::::::)
