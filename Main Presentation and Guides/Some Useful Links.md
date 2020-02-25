@@ -23,9 +23,3 @@
 - WebServices, by Explorer: (https://explorer.co.uk/web-services-part-1/)
 - Oracle Documentation: [HTTP Errors](https://docs.oracle.com/en/cloud/iaas/messaging-cloud/csmes/rest-api-http-status-codes-and-error-messages-reference.html#GUID-F3506024-AF35-4020-98B7-AAEC6C2AC73F)
 
-### Create some more APEX examples
-- Rapidly build a time card app using APEX: [YouTube video](https://youtu.be/gvRzsfG2OWc)
-- Movies app: [YouTube video](https://youtu.be/VlYa5xkF_kE)
-
-### Some more usefull links:
-- PinkDB Architecture and APEX: [Insum YouTube video](https://youtu.be/v2keRdIODnk)
