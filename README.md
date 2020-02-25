@@ -1,7 +1,7 @@
 # APEX Training for Vicasol
 
 ## Aim of this Repository
-This repository includes the all the training material needed for the training for Vicasol, in their offices allocated in Almería, driven by Juan Lopez in behalf of Novoshore Europe on February-March 2020.
+This repository includes the all the training material needed for the training for Vicasol, at their offices in Almería, driven by Juan Lopez in behalf of Novoshore Europe. End of February - begining of March, 2020.
 
 ## Resources
 This repository contains:
