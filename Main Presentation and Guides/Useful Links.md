@@ -26,6 +26,8 @@
 ### Create APEX session to prepare URL from Forms to APEX
 The best approach I found is creating a session using a PL/SQL process before creating the navigation link, and then use that session at PREPARE_URL function as a parameter. 
 
+[Deep Linking Doc](https://docs.oracle.com/en/database/oracle/application-express/19.2/htmdb/managing-application-attributes.html#GUID-33A67D5E-1128-4D23-9C5C-15FC9BE1B783)
+
 That way, navigation should work straight forward.
 
 Some usefull links:
